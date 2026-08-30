@@ -17,6 +17,10 @@ Three production platforms, built end-to-end by one person using AI-assisted dev
 ### Open source
 
 - **[mcp-multi-db](https://github.com/mahAnuj/mcp-multi-db)** — Read-only MCP server for querying PostgreSQL, MySQL, and SQLite from AI agents. Multi-database, safe by default.
+- **[prompteval](https://github.com/mahAnuj/prompteval)** — LLM eval framework with first-class token-cost tracking. Did that prompt change save money without losing quality?
+- **[multi-agent-blog](https://github.com/mahAnuj/multi-agent-blog)** — Blog platform written by cooperating agents: gather context, draft, critique, revise against the critique. A human still approves before anything publishes.
+- **[ai-support-bot](https://github.com/mahAnuj/ai-support-bot)** — Upload your documents, get a RAG-backed support assistant you can embed on any site as a widget.
+- **[mcp-zerodha](https://github.com/mahAnuj/mcp-zerodha)** — Read-only MCP server putting Zerodha broker data — prices, portfolio, history — in front of AI agents.
 
 ### Interests
 
