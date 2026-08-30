@@ -1,0 +1,25 @@
+# Anuj Mahajan
+
+Staff-level software engineer, 15 years. Distributed systems, cloud-native backends, and — for the last while — building complete products solo with AI coding tools.
+
+Currently a Computer Scientist at Adobe, working on Adobe Experience Manager: serverless backend services on Adobe I/O Runtime, a PWA-based player shipping across ChromeOS / Windows / Android / BrightSign / LG webOS, and enterprise migrations to Edge Delivery Services. Before that, backend systems at Koovs, Jabong, and seven years at Samsung.
+
+### Things I've shipped solo
+
+Three production platforms, built end-to-end by one person using AI-assisted development. Architecture, data pipelines, and infrastructure are mine; Claude Code did a lot of the typing.
+
+**[VivaTrades](https://vivatrades.in)** — Structured analysis for the NIFTY 500. A nightly pipeline ingests fundamentals, technicals, and news for 500 NSE-listed stocks and synthesises each into a written report — snapshot, strengths, weaknesses, peer ranking, risk flags. Also houses a strategy backtesting engine over 20 years of data with walk-forward validation for out-of-sample testing. Free, no signup.
+
+**[Shubh Bhagya](https://shubhagya.com)** — Vedic astrology, computed properly. Sidereal Lahiri chart math on Swiss Ephemeris, driving Janma Kundli generation, Vimshottari Dasha periods, daily Panchang, Ashtakoot matching, and a classical muhurat finder that applies tithi, nakshatra, Panchak, Chaturmas and Nitya Yoga rules. 76 explainers, cited to source texts.
+
+**[VeoCabs](https://veocabs.com)** — Intercity cab booking across 150+ Indian cities. Built and handed over; now operated independently.
+
+### Open source
+
+- **[mcp-multi-db](https://github.com/mahAnuj/mcp-multi-db)** — Read-only MCP server for querying PostgreSQL, MySQL, and SQLite from AI agents. Multi-database, safe by default.
+
+### Interests
+
+LLM pipelines that do real work rather than demos — retrieval, synthesis, evaluation. Agent tooling and MCP. The engineering question I find most interesting right now is how far one experienced engineer can go with these tools, and where the ceiling actually is.
+
+📫 mahajananuj07@gmail.com · [LinkedIn](https://www.linkedin.com/in/anuj-mahajana2063790)
