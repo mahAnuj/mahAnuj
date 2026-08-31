@@ -2,7 +2,7 @@
 
 Staff-level software engineer, 15 years. Distributed systems, cloud-native backends, and — for the last while — building complete products solo with AI coding tools.
 
-Currently a Computer Scientist at Adobe, working on Adobe Experience Manager: serverless backend services on Adobe I/O Runtime, a PWA-based player shipping across ChromeOS / Windows / Android / BrightSign / LG webOS, and enterprise migrations to Edge Delivery Services. Before that, backend systems at Koovs, Jabong, and seven years at Samsung.
+Currently at a large enterprise software company, working on its content management platform: serverless backend services, a PWA-based player shipping across ChromeOS / Windows / Android / BrightSign / LG webOS, and large-scale enterprise replatforming migrations. Before that, backend systems at two e-commerce companies and seven years at a consumer electronics manufacturer.
 
 ### Things I've shipped solo
 
