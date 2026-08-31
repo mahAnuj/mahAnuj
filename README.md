@@ -26,4 +26,4 @@ Three production platforms, built end-to-end by one person using AI-assisted dev
 
 LLM pipelines that do real work rather than demos — retrieval, synthesis, evaluation. Agent tooling and MCP. The engineering question I find most interesting right now is how far one experienced engineer can go with these tools, and where the ceiling actually is.
 
-📫 anujmahajan.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/anuj-mahajan-a2063790/)
+📫 mahajananuj07@gmail.com · [LinkedIn](https://www.linkedin.com/in/anuj-mahajan-a2063790/)
