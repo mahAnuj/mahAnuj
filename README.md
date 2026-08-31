@@ -1,5 +1,7 @@
 # Anuj Mahajan
 
+**[anujmahajan.com](https://anujmahajan.com)** — case studies, and writing on AI engineering and architecture.
+
 Staff-level software engineer, 15 years. Distributed systems, cloud-native backends, and — for the last while — building complete products solo with AI coding tools.
 
 Currently at a large enterprise software company, working on its content management platform: serverless backend services, a PWA-based player shipping across ChromeOS / Windows / Android / BrightSign / LG webOS, and large-scale enterprise replatforming migrations. Before that, backend systems at two e-commerce companies and seven years at a consumer electronics manufacturer.
@@ -26,4 +28,4 @@ Three production platforms, built end-to-end by one person using AI-assisted dev
 
 LLM pipelines that do real work rather than demos — retrieval, synthesis, evaluation. Agent tooling and MCP. The engineering question I find most interesting right now is how far one experienced engineer can go with these tools, and where the ceiling actually is.
 
-📫 mahajananuj07@gmail.com · [LinkedIn](https://www.linkedin.com/in/anuj-mahajan-a2063790/)
+📫 mahajananuj07@gmail.com · [anujmahajan.com](https://anujmahajan.com) · [LinkedIn](https://www.linkedin.com/in/anuj-mahajan-a2063790/)
