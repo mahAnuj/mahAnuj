@@ -12,7 +12,7 @@ Three production platforms, built end-to-end by one person using AI-assisted dev
 
 **[Shubh Bhagya](https://shubhagya.com)** — Vedic astrology, computed properly. Sidereal Lahiri chart math on Swiss Ephemeris, driving Janma Kundli generation, Vimshottari Dasha periods, daily Panchang, Ashtakoot matching, and a classical muhurat finder that applies tithi, nakshatra, Panchak, Chaturmas and Nitya Yoga rules. 76 explainers, cited to source texts.
 
-**[VeoCabs](https://veocabs.com)** — Intercity cab booking across 150+ Indian cities. Built and handed over; now operated independently.
+**[VeoCabs](https://veocabs.com)** — Intercity cab lead generation across 150+ Indian cities. Instant fare estimates from Google Routes, enquiries pushed to Telegram, and an admin CRM the business runs on daily. Built and still maintained by me; run day to day by the business itself.
 
 ### Open source
 
@@ -26,4 +26,4 @@ Three production platforms, built end-to-end by one person using AI-assisted dev
 
 LLM pipelines that do real work rather than demos — retrieval, synthesis, evaluation. Agent tooling and MCP. The engineering question I find most interesting right now is how far one experienced engineer can go with these tools, and where the ceiling actually is.
 
-📫 mahajananuj07@gmail.com · [LinkedIn](https://www.linkedin.com/in/anuj-mahajan-a2063790/)
+📫 anujmahajan.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/anuj-mahajan-a2063790/)
