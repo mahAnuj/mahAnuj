@@ -2,6 +2,8 @@
 
 **[anujmahajan.com](https://anujmahajan.com)** — case studies, and writing on AI engineering and architecture.
 
+Employed full-time; taking one freelance engagement at a time.
+
 Staff-level software engineer, 15 years. Distributed systems, cloud-native backends, and — for the last while — building complete products solo with AI coding tools.
 
 Currently at a large enterprise software company, working on its content management platform: serverless backend services, a PWA-based player shipping across ChromeOS / Windows / Android / BrightSign / LG webOS, and large-scale enterprise replatforming migrations. Before that, backend systems at two e-commerce companies and seven years at a consumer electronics manufacturer.
