@@ -2,7 +2,7 @@
 
 **[anujmahajan.com](https://anujmahajan.com)** — case studies, and writing on AI engineering and architecture.
 
-One client engagement at a time: AI product engineering, AI agent workflows, and AI security and governance reviews.
+I build AI systems that run themselves, and the rules that keep them safe. Always happy to connect and talk through ideas and projects.
 
 Staff-level software engineer, 15 years. Distributed systems, cloud-native backends, and — for the last while — building complete products solo with AI coding tools.
 
@@ -34,7 +34,7 @@ AI security and governance writing, from audits of my own systems:
 
 ### Open source
 
-- **[mcp-multi-db](https://github.com/mahAnuj/mcp-multi-db)** — Read-only MCP server for querying PostgreSQL, MySQL, and SQLite from AI agents. Multi-database, safe by default.
+- **[mcp-multi-db](https://github.com/mahAnuj/mcp-multi-db)** — Read-only MCP server for querying PostgreSQL, MySQL, and SQLite from AI agents, with table and column policy, redaction and an audit log. Safe by default.
 - **[prompteval](https://github.com/mahAnuj/prompteval)** — LLM eval framework with first-class token-cost tracking. Did that prompt change save money without losing quality?
 - **[multi-agent-blog](https://github.com/mahAnuj/multi-agent-blog)** — Blog platform written by cooperating agents: gather context, draft, critique, revise against the critique. A human still approves before anything publishes.
 - **[ai-support-bot](https://github.com/mahAnuj/ai-support-bot)** — Upload your documents, get a RAG-backed support assistant you can embed on any site as a widget.
@@ -44,4 +44,4 @@ AI security and governance writing, from audits of my own systems:
 
 LLM pipelines that do real work rather than demos — retrieval, synthesis, evaluation. Agent tooling and MCP. The engineering question I find most interesting right now is how far one experienced engineer can go with these tools, and where the ceiling actually is.
 
-📫 mahajananuj07@gmail.com · [anujmahajan.com](https://anujmahajan.com) · [Start a project](https://anujmahajan.com/contact)
+📫 mahajananuj07@gmail.com · [anujmahajan.com](https://anujmahajan.com) · [Get in touch](https://anujmahajan.com/contact)
